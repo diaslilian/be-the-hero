@@ -62,6 +62,9 @@ $ cd backend
 # Install dependencies
 $ npm install
 
+# Run Migrates
+$ yarn knex migrate:latest
+
 # Start the backend server
 $ npm start
 ```
