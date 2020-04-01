@@ -21,9 +21,10 @@ Acessar o layout da aplicação utilizando a ferramenta - [Figma](https://www.fi
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
+- [nodemon](http://nodemon.io)
 - [knex](https://knexjs.org)
 - [sqlite3](https://github.com/mapbox/node-sqlite3)
-- [nodemon](http://nodemon.io)
+- [Jest](https://jestjs.io/)
 
 ### WEB
 
